@@ -21,6 +21,7 @@ Amazon SageMaker Studio Labはメールアドレスのみで利用できるJupyt
 ⑥のカーネルの登録は次のコマンドで行います。このコマンドを実行すると、Notebookを開いたとき右上のボタンから`mlnote`のKernelが選択できるようになります。作成したKernelを選択していないとライブラリが足りないよ～というメッセージが出るので注意してください。
 
 ```
+conda activate mlnote
 ipython kernel install --user --name mlnote
 ```
 
