@@ -6,7 +6,7 @@
 |----------|-----|
 | [1.単回帰](https://chokkan.github.io/mlnote/regression/01sra.html) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter1.ipynb) |
 | [2.重回帰](https://chokkan.github.io/mlnote/regression/02mra.html) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter2.ipynb) |
-
+| [3.モデル選択と正則化](https://chokkan.github.io/mlnote/regression/02mra.html) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter3.ipynb) |
 
 ## Notebookの実行
 
