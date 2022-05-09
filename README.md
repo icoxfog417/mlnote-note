@@ -2,11 +2,11 @@
 
 [機械学習帳](https://chokkan.github.io/mlnote/index.html)を学ぶノートです。下表の"Notebook"列のボタンを押すと解説、演習問題の実装例が参照できます(詳しくは"Notebookの実行"のセクションを参照してください)。
 
-| Chapter | Notebook |
-|----------|-----|
-| [1.単回帰](https://chokkan.github.io/mlnote/regression/01sra.html) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter1.ipynb) |
-| [2.重回帰](https://chokkan.github.io/mlnote/regression/02mra.html) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter2.ipynb) |
-| [3.モデル選択と正則化](https://chokkan.github.io/mlnote/regression/02mra.html) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter3.ipynb) |
+| 章 | 確認問題回答用Notebook | 確認問題解答例Notebook |
+|----|---------------|---------------|
+| [1.単回帰](https://chokkan.github.io/mlnote/regression/01sra.html) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter1.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter1_answer.ipynb) |
+| [2.重回帰](https://chokkan.github.io/mlnote/regression/02mra.html) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter2.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter2_answer.ipynb) |
+| [3.モデル選択と正則化](https://chokkan.github.io/mlnote/regression/02mra.html) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter3.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter3_answer.ipynb) |
 
 ## Notebookの実行
 
