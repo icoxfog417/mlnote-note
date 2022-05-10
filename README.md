@@ -1,6 +1,6 @@
 # mlnote-note
 
-[機械学習帳](https://chokkan.github.io/mlnote/index.html)を学ぶノートです。下表の"Notebook"列のボタンを押すと解説、演習問題の実装例が参照できます(詳しくは"Notebookの実行"のセクションを参照してください)。
+[機械学習帳](https://chokkan.github.io/mlnote/index.html)を学ぶノートです。確認問題を自分で解くときは「確認問題回答用」、回答を参照するときは「確認問題解答例」を開いてください。
 
 | 章 | 確認問題回答用Notebook | 確認問題解答例Notebook |
 |----|---------------|---------------|
