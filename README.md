@@ -9,8 +9,10 @@
 | [2.重回帰](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/regression/02mra.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter2.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter2_answer.ipynb) |
 | [3.モデル選択と正則化](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/regression/03regularization.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter3.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter3_answer.ipynb) |
 | [4.勾配法によるパラメータ推定](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/regression/04sgd.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter4.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter4_answer.ipynb) |
+| [5. 線形二値分類](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/classification/01binary.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter5.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter5_answer.ipynb) |
 
-Open Studio Labのボタンを押すとAmazon SageMaker Studio LabでJupyter Notebookを開けます。開くだけならアカウントは不要です。Notebook実行時にアカウントが必要です。AWSアカウント/費用は必要ありません。詳細は下記をご参照ください。
+
+Open Studio Labのボタンを押すとAmazon SageMaker Studio LabでJupyter Notebookを開けます。開くだけならアカウントは不要です。Notebook実行時にアカウントが必要です。AWSアカウント/費用は必要ありません。アカウントのリクエストは[Request Account](https://bit.ly/3sB7nC3)より、利用方法の詳細は下記をご参照ください。
 
 
 ## Notebookの実行
