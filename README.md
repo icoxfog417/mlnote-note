@@ -3,13 +3,14 @@
 機械学習の教材である[機械学習帳](https://chokkan.github.io/mlnote/index.html)を学ぶノートです。確認問題を自分で解くときは「確認問題回答用」、回答を参照するときは「確認問題解答例」を開いてください。
 
 
-| 解説 | 確認問題回答用Notebook | 確認問題解答例Notebook |
+| 講義 | 確認問題回答用Notebook | 確認問題解答例Notebook |
 |----|---------------|---------------|
 | [1.単回帰](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/regression/01sra.ipynb) | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter1.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter1_answer.ipynb) |
 | [2.重回帰](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/regression/02mra.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter2.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter2_answer.ipynb) |
 | [3.モデル選択と正則化](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/regression/03regularization.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter3.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter3_answer.ipynb) |
 | [4.勾配法によるパラメータ推定](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/regression/04sgd.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter4.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter4_answer.ipynb) |
 | [5. 線形二値分類](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/classification/01binary.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter5.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter5_answer.ipynb) |
+| [6. 線形多クラス分類](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/classification/02multi.ipynb) |Comming Soon |Comming Soon |
 
 
 Open Studio Labのボタンを押すとAmazon SageMaker Studio LabでJupyter Notebookを開けます。開くだけならアカウントは不要です。Notebook実行時にアカウントが必要です。AWSアカウント/費用は必要ありません。アカウントのリクエストは[Request Account](https://bit.ly/3sB7nC3)より、利用方法の詳細は下記をご参照ください。
