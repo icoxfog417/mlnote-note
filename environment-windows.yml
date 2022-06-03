@@ -1,0 +1,18 @@
+name: mlnote
+
+dependencies:
+  - ipython
+  - ipykernel
+  - python
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - autograd
+  - pytorch
+  - tensorflow
+  - jinja2
+  - openpyxl
+  - pip
+  - pip:
+    - schemdraw
