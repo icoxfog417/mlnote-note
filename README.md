@@ -17,9 +17,10 @@
 | [10. 非階層的クラスタリング](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/unsupervised/01kmeans.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter10.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter10_answer.ipynb) |
 | [11. 階層的クラスタリング](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/unsupervised/02hac.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter11.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter11_answer.ipynb) |
 | [12. 主成分分析 (1)](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/unsupervised/03pca.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter12.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter12_answer.ipynb) |
+| [13. 主成分分析 (2)](https://studiolab.sagemaker.aws/import/github/chokkan/mlnote/blob/main/unsupervised/04pca2.ipynb) |[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter13.ipynb) (※) | - |
 
 
-※9章は確認問題がないため、実装の解説のみ。
+※9章、13章は確認問題がないため、実装の解説のみ。
 
 Open Studio Labのボタンを押すとAmazon SageMaker Studio LabでJupyter Notebookを開けます。開くだけならアカウントは不要です。Notebook実行時にアカウントが必要です。AWSアカウント/費用は必要ありません。アカウントのリクエストは[Request Account](https://bit.ly/3sB7nC3)より、利用方法の詳細は下記をご参照ください。
 
