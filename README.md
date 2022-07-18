@@ -7,7 +7,7 @@
 
 * 1日ごとの学習内容を1枚のスライドで要約して解説しています。
 * 確認問題を解くのに集中できるよう、環境構築が不要な[Amazon SageMaker Studio Lab](https://aws.amazon.com/jp/builders-flash/202205/awsgeek-sagemaker-studio-lab/)で確認問題を解いています(※)。
-* スライドの作成に使ったPowerPointファイル`mlnote-slides.pptx`をリポジトリに含めているので、オリジナルを編集し自分なりの要約スライドを作れます。
+* アウトプットによる学習の定着を促すために、スライドの作成に使ったPowerPointファイル[`mlnote-slides.pptx`](mlnote-slides.pptx)をリポジトリに含めています。自分なりに機械学習帳を要約しアウトプットするための素材としてお使いください。
 
 ※演習用のNotebookと、回答例を記入したNotebookはそれぞれ「Open Studio Lab」をクリックすると開けます。開くのにStudio Labのアカウントは不要です。動かすのに必要です。使い方は「学習を始める」のセクションを参照してください。
 
@@ -72,7 +72,7 @@
 |32   | [11.階層的クラスタリング 11.1~11.2](https://chokkan.github.io/mlnote/unsupervised/02hac.html) | ![chapter11-1.svg](notebooks/images/chapter11/chapter11-1.svg) |
 |33   | [11.階層的クラスタリング 11.3](https://chokkan.github.io/mlnote/unsupervised/02hac.html#id10) | ![chapter11-2.svg](notebooks/images/chapter11/chapter11-2.svg) |
 |34   | [11.階層的クラスタリング 確認問題](https://chokkan.github.io/mlnote/unsupervised/02hac.html#id19) | 演習用:[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter11.ipynb) 回答例:[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter11_answer.ipynb)|
-|35   | [12.主成分分析 (1) 12.1~12.3, 12.5](https://chokkan.github.io/mlnote/unsupervised/03pca.html) | ![chapter12-1.svg](notebooks/images/chapter11/chapter12-1.svg) |
+|35   | [12.主成分分析 (1) 12.1~12.3, 12.5](https://chokkan.github.io/mlnote/unsupervised/03pca.html) | ![chapter12-1.svg](notebooks/images/chapter12/chapter12-1.svg) |
 |36   | [12.主成分分析 (1) 12.4](https://chokkan.github.io/mlnote/unsupervised/03pca.html#id5) | ![chapter12-2.svg](notebooks/images/chapter12/chapter12-2.svg) |
 |37   | [12.主成分分析 (1) 確認問題](https://chokkan.github.io/mlnote/unsupervised/03pca.html#id8) | 演習用:[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter12.ipynb) 回答例:|[![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/icoxfog417/mlnote-note/blob/main/notebooks/chapter12_answer.ipynb)　|
 |38   | [13.主成分分析 (2) 13.1~13.2](https://chokkan.github.io/mlnote/unsupervised/04pca2.html) | ![chapter13-1.svg](notebooks/images/chapter13/chapter13-1.svg) |
