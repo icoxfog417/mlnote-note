@@ -6,7 +6,7 @@
 **mlnote-note**は、岡崎 直観先生が作成された[機械学習帳](https://chokkan.github.io/mlnote/index.html)を40日間、ちょっとずつ毎日学ぶための教材です。
 
 * 1日ごとの学習内容を1枚のスライドで要約して解説しています。
-* 確認問題を解くのに集中できるよう、環境構築が不要なAmazon SageMaker Studio Labで確認問題を解いています(※)。
+* 確認問題を解くのに集中できるよう、環境構築が不要な[Amazon SageMaker Studio Lab](https://aws.amazon.com/jp/builders-flash/202205/awsgeek-sagemaker-studio-lab/)で確認問題を解いています(※)。
 * スライドの作成に使ったPowerPointファイル`mlnote-slides.pptx`をリポジトリに含めているので、オリジナルを編集し自分なりの要約スライドを作れます。
 
 ※演習用のNotebookと、回答例を記入したNotebookはそれぞれ「Open Studio Lab」をクリックすると開けます。開くのにStudio Labのアカウントは不要です。動かすのに必要です。使い方は「学習を始める」のセクションを参照してください。
