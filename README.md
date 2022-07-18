@@ -1,4 +1,7 @@
-![top.png](images/top.png)
+<p align="center">
+  <img src="https://github.com/icoxfog417/mlnote-note/raw/main/images/top.png">
+</p>
+
 
 **mlnote-note**は、岡崎 直観先生が作成された[機械学習帳](https://chokkan.github.io/mlnote/index.html)を40日間、ちょっとずつ毎日学ぶための教材です。
 
