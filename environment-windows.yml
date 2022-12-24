@@ -16,3 +16,4 @@ dependencies:
   - pip
   - pip:
     - schemdraw
+    - japanize-matplotlib
